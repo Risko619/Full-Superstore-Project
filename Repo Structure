@@ -1,0 +1,7 @@
+superstore-insights-pipeline/
+│── sql/queries.sql
+│── sql/screenshots/
+│── excel/superstore_dashboard.xlsx
+│── powerbi/superstore_dashboard.pbix
+│── powerbi/screenshots/
+│── README.md
